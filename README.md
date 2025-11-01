@@ -70,5 +70,9 @@ Feel free to explore other members’ solutions to learn different approaches.
 
 **Happy Coding! 💻**
 
-
+Name-Ayush kumar
+Semester-1
+USN-NA
+College email-ayushkumar.cs25@bmsce.ac.in
+LeetCode profile-https://leetcode.com/u/ayush_len/
 
